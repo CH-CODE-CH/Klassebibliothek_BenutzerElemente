@@ -1,0 +1,7 @@
+C:\Users\pirat\source\repos\Neuer Ordner\Elemente\Funktionen\bin\Debug\Funktionen.dll
+C:\Users\pirat\source\repos\Neuer Ordner\Elemente\Funktionen\bin\Debug\Funktionen.pdb
+C:\Users\pirat\source\repos\Neuer Ordner\Elemente\Funktionen\obj\Debug\Funktionen.csproj.CoreCompileInputs.cache
+C:\Users\pirat\source\repos\Neuer Ordner\Elemente\Funktionen\obj\Debug\Funktionen.dll
+C:\Users\pirat\source\repos\Neuer Ordner\Elemente\Funktionen\obj\Debug\Funktionen.pdb
+C:\Users\pirat\source\repos\Neuer Ordner\Elemente\Funktionen\obj\Debug\Funktionen.SollHaben.resources
+C:\Users\pirat\source\repos\Neuer Ordner\Elemente\Funktionen\obj\Debug\Funktionen.csproj.GenerateResource.cache

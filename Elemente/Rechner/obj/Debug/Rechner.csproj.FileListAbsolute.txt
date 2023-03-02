@@ -1,0 +1,13 @@
+C:\Users\pirat\source\repos\Neuer Ordner\Elemente\Rechner\obj\Debug\Rechner.csproj.AssemblyReference.cache
+C:\Users\pirat\source\repos\Neuer Ordner\Elemente\Rechner\obj\Debug\Rechner.Form1.resources
+C:\Users\pirat\source\repos\Neuer Ordner\Elemente\Rechner\obj\Debug\Rechner.Properties.Resources.resources
+C:\Users\pirat\source\repos\Neuer Ordner\Elemente\Rechner\obj\Debug\Rechner.csproj.GenerateResource.cache
+C:\Users\pirat\source\repos\Neuer Ordner\Elemente\Rechner\obj\Debug\Rechner.csproj.CoreCompileInputs.cache
+C:\Users\pirat\source\repos\Neuer Ordner\Elemente\Rechner\bin\Debug\Rechner.exe.config
+C:\Users\pirat\source\repos\Neuer Ordner\Elemente\Rechner\bin\Debug\Rechner.exe
+C:\Users\pirat\source\repos\Neuer Ordner\Elemente\Rechner\bin\Debug\Rechner.pdb
+C:\Users\pirat\source\repos\Neuer Ordner\Elemente\Rechner\bin\Debug\Funktionen.dll
+C:\Users\pirat\source\repos\Neuer Ordner\Elemente\Rechner\bin\Debug\Funktionen.pdb
+C:\Users\pirat\source\repos\Neuer Ordner\Elemente\Rechner\obj\Debug\Rechner.csproj.CopyComplete
+C:\Users\pirat\source\repos\Neuer Ordner\Elemente\Rechner\obj\Debug\Rechner.exe
+C:\Users\pirat\source\repos\Neuer Ordner\Elemente\Rechner\obj\Debug\Rechner.pdb
